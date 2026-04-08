@@ -25,7 +25,7 @@
 - AI trả lời dạng text, có cấu trúc rõ (tiêu đề, bullet, bold)
 - Hiển thị "Đã xem xét X nguồn" → transparent về quá trình xử lý
 - Cite nguồn bên ngoài (motogo, hanoimoi...) → tăng credibility
-- Không có quick-reply buttons hay gợi ý follow-up
+- Có gợi ý autocomplete khi gõ (search suggestions), nhưng không có quick-reply buttons sau khi AI trả lời xong
 - Không có nút CTA trực tiếp để thực hiện hành động ngay
 
 ---
