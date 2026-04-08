@@ -10,14 +10,14 @@
 
 | Sản phẩm | AI feature | Truy cập |
 |-----------|------------|----------|
-| **V-App — Trợ lý ảo V-AI** ✅ | Trợ lý voice/text, gợi ý theo context | App V-App |
+| **V-App — Trợ lý ảo V-AI** ✅ | Trợ lý text, gợi ý theo context | App V-App |
 
 ---
 
 ## Phần 1 — Khám phá (15 phút)
 
 **Sản phẩm hứa gì (marketing):**
-- Trợ lý voice/text thông minh, hiểu context người dùng
+- Trợ lý text thông minh, gợi ý nội dung và dịch vụ theo sở thích người dùng
 - Gợi ý cá nhân hóa theo hành vi và nhu cầu
 - Tích hợp nhiều dịch vụ trong 1 app (siêu app)
 
